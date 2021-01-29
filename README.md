@@ -1,0 +1,2 @@
+# badwordblocker
+Bad words.
