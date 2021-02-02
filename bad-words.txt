@@ -78,6 +78,9 @@ $hittie
 1c2g
 1cup
 1g2c
+2019-ncov
+2020-ncov
+2021-ncov
 277353
 2c1g
 2 cats 1 bowl
@@ -312,6 +315,7 @@ ass-hat
 ass-kick
 ass-whooping
 ass2ass
+ass4ass
 assbag
 assbagger
 assban
@@ -334,7 +338,13 @@ assdiger
 assdigger
 assdoor
 asses
+asses2asses
+asses4asses
+assesforasses
+assesonasses
+assestoasses
 assface
+assforass
 assfridge
 assfuck
 assfucker
@@ -393,6 +403,7 @@ assmuncher
 assnigga
 assnigger
 assnugget
+assonass
 assopopulous
 asspacker
 assphone
@@ -416,6 +427,8 @@ asss
 assshit
 assshole
 asssucker
+asstin
+asstoass
 asstralia
 asstunnel
 asswad
@@ -529,6 +542,7 @@ bastardo
 bastards
 basterd
 bastinado
+batty boy
 bawdy
 bazongas
 bazooms
@@ -645,6 +659,7 @@ bitcher
 bitchers
 bitches
 bitchez
+bitchfield
 bitchh
 bitchin
 bitching
@@ -775,10 +790,15 @@ bowser's cock
 boy 2 boy
 boy to boy
 boy2boy
+boy4boy
+boyforboy
 boyfriend
 boyo
+boyonboy
+boytoboy
 bozi
 bozy
+bra
 brainie-ass
 brainy-ass
 brass balls
@@ -995,12 +1015,21 @@ cherrypopper
 chester bennington's death
 chesticle
 chi-chi man
+chick2chick
+chick4chick
 chicken faggot
 chicken butt
+chickforchick
+chickonchick
 chick with a dick
 chicken mcnigger
+chicks2chicks
+chicks4chicks
 chicks lick
 chicks with dicks
+chicksforchicks
+chicksonchicks
+chickstochicks
 chickslick
 chico
 chicos
@@ -1065,6 +1094,7 @@ cibal
 cigarette
 cigarettes
 ciggy
+cip
 cipa
 circle jerk
 circlejerk
@@ -1195,6 +1225,12 @@ corksucker
 cottonpick
 countrygender
 countrysexual
+covid
+covid-
+covid-19
+covid-20
+covid-21
+covids
 cox
 cp
 cpp
@@ -1235,6 +1271,7 @@ cuckold
 cucks
 cúl tóna
 cum
+cum in pussy
 cumdumpster
 cumface
 cumflaps
@@ -1320,6 +1357,7 @@ damned
 damning
 damnit
 danktastik
+dario in the tub
 darkie
 darky
 dat nigga
@@ -1357,6 +1395,11 @@ destroy your pussy
 developer
 devforum
 diack
+diarea
+diarhea
+diarrea
+diarrhea
+diarrhoea
 dick
 dick'
 dick-ish
@@ -1378,6 +1421,14 @@ dickish
 dickpic
 dickripper
 dicks
+dickshot
+dickshoot
+dickshooted
+dickshooter
+dickshooters
+dickshooting
+dickshootings
+dickshoots
 dicksipper
 dicksmoke
 dicksmoker
@@ -1919,6 +1970,8 @@ fuckstick
 fucksville
 fucktard
 fucktards
+fuckthepolice
+fuck the police
 fuckton
 fuckup
 fuckwad
@@ -2013,6 +2066,7 @@ gator bait
 gay
 gay marriage
 gay muthafuckin whore
+gay orgy
 gay sex
 gayass
 gay bear
@@ -2114,6 +2168,8 @@ gówno
 goy
 goyim
 goyum
+gp
+gp action
 grand theft dev
 graphictoria
 graphictorian
@@ -2140,6 +2196,16 @@ guido
 guinea
 guro
 gurr
+guy2guy
+guy4guy
+guyforguy
+guyonguy
+guytoguy
+guys2guys
+guys4guys
+guysforguys
+guysonguys
+guystoguys
 gvailo
 gveilo
 gyp
@@ -2169,6 +2235,8 @@ hardcores3x
 hardcoresex
 harder daddy
 hardon
+have sex
+having sex
 hdp
 he-she
 he-who-must-not-be-named
@@ -2453,6 +2521,7 @@ kaffer
 kaffir
 kaffre
 kafir
+kawasaki virus
 kawk
 kaykaykay
 kaymonf
@@ -2899,6 +2968,8 @@ nazist
 nazl
 nazzi
 nazzzi
+ncov
+ncovs
 need the dick
 neezy
 neger
@@ -3518,6 +3589,11 @@ rockstar dev
 rockstr
 rosy palm
 rosy palm and her 5 sisters
+rotten
+rotten.com
+rotten.net
+rotten.org
+rotten.xyz
 round eye
 rowdy
 rsg japan
@@ -3873,6 +3949,7 @@ sony
 sool
 sooty
 soovar
+sox
 soyboy
 spac
 spacker
@@ -4015,6 +4092,16 @@ tea bags
 teabag
 teabags
 teat
+teen2teen
+teen4teen
+teenforteen
+teenonteen
+teentoteen
+teens2teens
+teens4teens
+teensforteens
+teensonteens
+teenstoteens
 teets
 teez
 téigh go dtí ifreann
@@ -4122,7 +4209,9 @@ triple x
 trousersnake
 trump
 trump administration
+tub boy
 tub girl
+tubboy
 tubgirl
 turd
 turdburger
@@ -4243,6 +4332,8 @@ wankster's
 wanksters
 wanksterz
 wanky
+wanna have sex
+wanna have sex?
 want it bad
 wap
 watermelon sugar
@@ -4297,12 +4388,22 @@ wogged
 woggy
 wogs
 womb
+woman2woman
+woman4woman
+womenforwoman
+womanonwoman
+womantowoman
 women 2 women
 women 4 women
 women for women
 women on women
 women rapping
 women to women
+women2women
+women4women
+womenforwomen
+womenonwomen
+womentowomen
 woofter
 woose
 wop
@@ -4355,7 +4456,9 @@ yigger
 yippie-kai-yay motherfucker
 yippie-kai-yayo motherfucker
 yippie-kai-yo motherfucker
+yo ass
 yobbo
+yogurt cup
 yolocaust
 you the fucking bitch
 you're a piece of crap
@@ -4373,6 +4476,7 @@ you suck
 young offensive bloke
 your ass
 your retarded
+yourass
 zazi
 zeeshare
 zfuck
