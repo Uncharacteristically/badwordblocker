@@ -216,6 +216,7 @@ ahole
 ai sat
 aids
 aidsburger
+aidshamburger
 aiteann
 ajit pai
 ak-47 killer
@@ -747,6 +748,8 @@ black guy on drugs
 black man
 black people
 blackface
+blackie
+blackies
 blackmail
 blackmailed
 blackmailer
@@ -758,6 +761,8 @@ blackmails
 blackman
 blackpeoplematter
 blacktar
+blacky
+blackys
 blad
 bldn
 bleeding the weasel
@@ -1331,6 +1336,8 @@ cond0ms
 condom
 condomless
 condoms
+congratufuckinglation
+congratufuckinglations
 coño
 cop some wood
 copey
@@ -3520,7 +3527,9 @@ niqueur
 niquor
 nisser
 nizzle
+nlb
 nlbe
+nlg
 nlge
 nlgg
 nlgger
