@@ -2481,6 +2481,8 @@ dyk
 dyke
 dykes
 dyke jumper
+dysentary
+dysentery
 eargasm
 eargasms
 earmuff
@@ -2633,6 +2635,8 @@ faggit
 faggitt
 faggle
 faggo
+faggoot
+faggooot
 faggor
 faggort
 faggot
@@ -3433,6 +3437,7 @@ grn
 grndiddy
 groid
 groids
+groomed
 grooming
 grope
 groping
@@ -4809,6 +4814,7 @@ newdz
 newfag
 newfie
 new raygun
+nfuck
 ngger
 nggerman
 nggr
@@ -4898,6 +4904,7 @@ nigge
 niggea
 niggear
 nigged
+niggel
 nigger
 nigger balls
 nigger buggy
@@ -4930,6 +4937,8 @@ niggler
 nigglet
 niggletee
 nigglety
+niggley
+niggleyloo
 niggloo
 niggly
 nigg nog
@@ -5176,6 +5185,7 @@ orgy
 osama
 osama bin laden
 osti de calisse de tabarnak
+otorium
 ottoman empire
 ou812
 oui
@@ -6040,6 +6050,7 @@ september11
 serosorting
 several kids from columbine
 sex
+sex joke
 sex me
 sex position
 sex storie
@@ -6241,6 +6252,7 @@ shoot me
 shoot her
 shoot him
 shoot them
+shooting
 shota
 shower in french
 shower drain
@@ -6904,6 +6916,7 @@ twitter
 twunt
 twunter
 two fingers
+two fingers with tongue
 two girls one cup
 two kids one cup
 twot
@@ -7229,14 +7242,18 @@ yank your crank
 yanks
 yaoi
 yard ape
+yayo
 year to kill
 yeasty
 yeasties
+yeat
 yed
+yeet
 yellow muzzle
 yellow showers
 yellowboy
 yer mama real tight
+yeyo
 yid
 yiddo
 yido
@@ -7251,6 +7268,7 @@ yippie-kai-yay motherfucker
 yippie-kai-yayo motherfucker
 yippie-kai-yo motherfucker
 yo ass
+yob
 yobbo
 yogurt cup
 yolocaust
@@ -7280,6 +7298,7 @@ your retarded
 yourass
 yumm
 zachariah bishop
+zack off
 zazi
 ze goggles
 zeeshare
